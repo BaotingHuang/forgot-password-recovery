@@ -1,0 +1,3 @@
+INSERT INTO `user` VALUES
+(1, 'amir@demo.com', '$2a$10$bWVhEIlft7kVwhpoHPzKc.uwtS26DXgRDpqeeGMZGEVLlNDrhMmrq',
+'Amir', 'Boroumand', true, '2017-05-01 17:00:00', null, NULL);
